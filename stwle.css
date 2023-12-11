@@ -21,14 +21,13 @@ header {
     text-align: justify;
     color: black(20, 18, 18),0 ,0);
 }
-
 .listas1 {
     font-size: 50px;
     text-align: center;
     list-style: none;
 }
 
-.inicio {
+.inicio{
     padding: 20px;
     background-color: black;
     border-bottom: 5px solid wheat;
