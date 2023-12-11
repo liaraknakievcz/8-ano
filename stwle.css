@@ -1,24 +1,25 @@
 body {
     background-color: rgb(212, 118, 131);
 }
+
 #título {
-font-size: 70px;
-text-align: center;
-color:rgb(143, 0, 0) ed(192, 20, 123)
+    font-size: 70px;
+    text-align: center;
+    color:rgb(143, 0, 0) ed(192, 20, 123);
 
 }
 header {
-    padding: 20px
+    padding: 20px;
     background-color: black; 
-    border-bottom: 5px solid
-    font-size: 35px
+    border-bottom: 5px solid;
+    font-size: 35px;
     color: black;
 }
 
 .texto {
-font-size: 50px
-text-align: justifc;
-color: black(20, 18, 18),0 ,0);
+    font-size: 50px;
+    text-align: justify;
+    color: black(20, 18, 18),0 ,0);
 }
 
 .listas1 {
